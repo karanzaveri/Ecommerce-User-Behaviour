@@ -67,10 +67,11 @@ Once you have installed the necessary dependencies, you can start exploring the 
 4. **Visualization**:
    - Visualizations are provided in the `visualizations/` directory to help you understand key trends and patterns.
 
-## Project Structure
+# Project Structure
 
 Here is an overview of the project structure:
-Ecommerce-User-Behaviour/ ├── data/ │ ├── raw_data.csv # Raw dataset │ └── processed_data.csv # Cleaned and processed dataset ├── notebooks/ │ ├── EDA.ipynb # Exploratory Data Analysis │ ├── model_training.ipynb # Machine Learning Model Training │ └── report_generation.ipynb # Report Generation ├── visualizations/ │ ├── plots/ # Directory containing generated plots ├── src/ │ ├── data_processing.py # Data cleaning and processing scripts │ ├── feature_engineering.py # Feature engineering scripts │ └── model.py # Machine learning models ├── requirements.txt # Python dependencies └── README.md # Project README file
+
+    Ecommerce-User-Behaviour/ ├── data/ │ ├── raw_data.csv # Raw dataset │ └── processed_data.csv # Cleaned and processed dataset ├── notebooks/ │ ├── EDA.ipynb # Exploratory Data Analysis │ ├── model_training.ipynb # Machine Learning Model Training │ └── report_generation.ipynb # Report Generation ├── visualizations/ │ ├── plots/ # Directory containing generated plots ├── src/ │ ├── data_processing.py # Data cleaning and processing scripts │ ├── feature_engineering.py # Feature engineering scripts │ └── model.py # Machine learning models ├── requirements.txt # Python dependencies └── README.md # Project README file
 
 
 ## Technologies Used
