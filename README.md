@@ -184,5 +184,5 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 If you have any questions, suggestions, or feedback, feel free to reach out:
 
 - **Name**: Karan Zaveri
-- **Email**: [your-karanzaveri92@gmail.com](mailto:karanzaveri92@gmail.com)
+- **Email**: [karanzaveri92@gmail.com](mailto:karanzaveri92@gmail.com)
 - **LinkedIn**: [Karan Zaveri](https://www.linkedin.com/in/karanzaveri92)
