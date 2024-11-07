@@ -101,10 +101,6 @@ The dataset used in this project contains records of user interactions on an eco
 - **Product ID**: Identifier for the product involved in the interaction.
 - **Action**: Type of interaction (e.g., view, click, purchase).
 
-### Data Sources
-
-If applicable, provide links or references to where the data was obtained. Mention any preprocessing steps taken to clean and prepare the data for analysis.
-
 ## Data Preprocessing
 
 Before performing any analysis, the data was preprocessed as follows:
